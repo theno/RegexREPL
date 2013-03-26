@@ -1,7 +1,7 @@
 Helper-scripts to create regexes (regular expressions) in perl.
 
 
-1. At first, find a regex for a given line using:
+1. At first, build a regex for a given line using:
 
  $ find_regex_repl.pl <line>
 
@@ -11,4 +11,5 @@ Helper-scripts to create regexes (regular expressions) in perl.
  $ match_regex_repl.pl <regex>
 
 
+Within the REPLs:
 Use the up and down arrows to navigate in your history of lines or regexes.
