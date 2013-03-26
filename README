@@ -1,0 +1,8 @@
+1. At first, find a regex for a given line using:
+
+  'find_regex_repl.pl'
+
+
+2. Then test your regex against several lines with:
+
+  'match_regex_repl.pl'
