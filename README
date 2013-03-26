@@ -1,8 +1,14 @@
+Helper-scripts to create regexes (regular expressions) in perl.
+
+
 1. At first, find a regex for a given line using:
 
-  'find_regex_repl.pl'
+ $ find_regex_repl.pl <line>
 
 
-2. Then test your regex against several lines with:
+2. Then, test your regex against several lines with:
 
-  'match_regex_repl.pl'
+ $ match_regex_repl.pl <regex>
+
+
+Use the up and down arrows to navigate in your history of lines or regexes.
